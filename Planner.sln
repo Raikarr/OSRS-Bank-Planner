@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planner", "Planner\Planner.csproj", "{40507790-AFD1-4E94-86F5-44F051CFF991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{39F180DD-440D-4687-8698-0B0B7FDADCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40507790-AFD1-4E94-86F5-44F051CFF991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40507790-AFD1-4E94-86F5-44F051CFF991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40507790-AFD1-4E94-86F5-44F051CFF991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40507790-AFD1-4E94-86F5-44F051CFF991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F180DD-440D-4687-8698-0B0B7FDADCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F180DD-440D-4687-8698-0B0B7FDADCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F180DD-440D-4687-8698-0B0B7FDADCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F180DD-440D-4687-8698-0B0B7FDADCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827275BE-280F-4920-BD9F-27D3177AADB5}
+	EndGlobalSection
+EndGlobal
