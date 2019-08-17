@@ -13,3 +13,8 @@ If you find any items in the 'inventory' that should not be there (because they 
 If you find any glitches or crashes, please also contact me and let me know all you can about the error.
 
 Thank you, and have fun!
+
+
+
+
+As a further note, way way in the future I have a dream that would allow you to export a text file containing all of the items in your bank (ingame) that could then be loaded into this program for easier bank editing, instead of having to start from scratch. I know that RuneLite is able to indentify every ID of the items in your bank, so it is only reasonable that those IDs could be formatted in a way that could be read in the bank planner similarly to how it writes and reads the save files you can create in the program (.bin).
