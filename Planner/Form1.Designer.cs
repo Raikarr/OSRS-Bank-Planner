@@ -318,10 +318,10 @@
             this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(192)))), ((int)(((byte)(154)))));
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(491, 43);
+            this.textBox1.Location = new System.Drawing.Point(491, 42);
             this.textBox1.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(283, 22);
+            this.textBox1.Size = new System.Drawing.Size(282, 22);
             this.textBox1.TabIndex = 1;
             this.textBox1.TabStop = false;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -461,7 +461,7 @@
             this.pictureBox6.Location = new System.Drawing.Point(488, 41);
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(287, 22);
+            this.pictureBox6.Size = new System.Drawing.Size(287, 26);
             this.pictureBox6.TabIndex = 9;
             this.pictureBox6.TabStop = false;
             // 
@@ -575,7 +575,7 @@
             this.OptionsBox.BackColor = System.Drawing.Color.Transparent;
             this.OptionsBox.BackgroundImage = global::Planner.Properties.Resources.SettingsMenu;
             this.OptionsBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.OptionsBox.Location = new System.Drawing.Point(428, 9);
+            this.OptionsBox.Location = new System.Drawing.Point(432, 7);
             this.OptionsBox.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.OptionsBox.Name = "OptionsBox";
             this.OptionsBox.Size = new System.Drawing.Size(348, 180);
@@ -586,7 +586,7 @@
             // SettingsClose
             // 
             this.SettingsClose.Image = ((System.Drawing.Image)(resources.GetObject("SettingsClose.Image")));
-            this.SettingsClose.Location = new System.Drawing.Point(748, 17);
+            this.SettingsClose.Location = new System.Drawing.Point(752, 14);
             this.SettingsClose.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.SettingsClose.Name = "SettingsClose";
             this.SettingsClose.Size = new System.Drawing.Size(20, 21);
@@ -609,7 +609,7 @@
             // SaveBank
             // 
             this.SaveBank.Image = ((System.Drawing.Image)(resources.GetObject("SaveBank.Image")));
-            this.SaveBank.Location = new System.Drawing.Point(462, 156);
+            this.SaveBank.Location = new System.Drawing.Point(466, 154);
             this.SaveBank.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.SaveBank.Name = "SaveBank";
             this.SaveBank.Size = new System.Drawing.Size(85, 17);
@@ -621,7 +621,7 @@
             // LoadBank
             // 
             this.LoadBank.Image = ((System.Drawing.Image)(resources.GetObject("LoadBank.Image")));
-            this.LoadBank.Location = new System.Drawing.Point(667, 156);
+            this.LoadBank.Location = new System.Drawing.Point(671, 154);
             this.LoadBank.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.LoadBank.Name = "LoadBank";
             this.LoadBank.Size = new System.Drawing.Size(85, 17);
@@ -633,7 +633,7 @@
             // SaveImage
             // 
             this.SaveImage.Image = ((System.Drawing.Image)(resources.GetObject("SaveImage.Image")));
-            this.SaveImage.Location = new System.Drawing.Point(562, 156);
+            this.SaveImage.Location = new System.Drawing.Point(566, 154);
             this.SaveImage.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.SaveImage.Name = "SaveImage";
             this.SaveImage.Size = new System.Drawing.Size(85, 17);
@@ -645,7 +645,7 @@
             // SettingsHelp
             // 
             this.SettingsHelp.Image = ((System.Drawing.Image)(resources.GetObject("SettingsHelp.Image")));
-            this.SettingsHelp.Location = new System.Drawing.Point(725, 17);
+            this.SettingsHelp.Location = new System.Drawing.Point(729, 14);
             this.SettingsHelp.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.SettingsHelp.Name = "SettingsHelp";
             this.SettingsHelp.Size = new System.Drawing.Size(20, 21);
@@ -657,10 +657,10 @@
             // SettingsMenu2
             // 
             this.SettingsMenu2.Image = ((System.Drawing.Image)(resources.GetObject("SettingsMenu2.Image")));
-            this.SettingsMenu2.Location = new System.Drawing.Point(428, 9);
+            this.SettingsMenu2.Location = new System.Drawing.Point(432, 7);
             this.SettingsMenu2.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.SettingsMenu2.Name = "SettingsMenu2";
-            this.SettingsMenu2.Size = new System.Drawing.Size(348, 180);
+            this.SettingsMenu2.Size = new System.Drawing.Size(348, 341);
             this.SettingsMenu2.TabIndex = 26;
             this.SettingsMenu2.TabStop = false;
             this.SettingsMenu2.Visible = false;
@@ -668,7 +668,7 @@
             // HelpClose
             // 
             this.HelpClose.Image = ((System.Drawing.Image)(resources.GetObject("HelpClose.Image")));
-            this.HelpClose.Location = new System.Drawing.Point(748, 17);
+            this.HelpClose.Location = new System.Drawing.Point(752, 14);
             this.HelpClose.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.HelpClose.Name = "HelpClose";
             this.HelpClose.Size = new System.Drawing.Size(20, 21);
@@ -683,7 +683,7 @@
             this.HelpText.Font = new System.Drawing.Font("RuneScape UF", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HelpText.ForeColor = System.Drawing.Color.Yellow;
             this.HelpText.Image = ((System.Drawing.Image)(resources.GetObject("HelpText.Image")));
-            this.HelpText.Location = new System.Drawing.Point(445, 56);
+            this.HelpText.Location = new System.Drawing.Point(445, 42);
             this.HelpText.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.HelpText.Name = "HelpText";
             this.HelpText.Size = new System.Drawing.Size(274, 15);
@@ -694,7 +694,7 @@
             // ShowAll
             // 
             this.ShowAll.Image = ((System.Drawing.Image)(resources.GetObject("ShowAll.Image")));
-            this.ShowAll.Location = new System.Drawing.Point(536, 69);
+            this.ShowAll.Location = new System.Drawing.Point(540, 67);
             this.ShowAll.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.ShowAll.Name = "ShowAll";
             this.ShowAll.Size = new System.Drawing.Size(66, 21);
@@ -706,7 +706,7 @@
             // HideAll
             // 
             this.HideAll.Image = ((System.Drawing.Image)(resources.GetObject("HideAll.Image")));
-            this.HideAll.Location = new System.Drawing.Point(608, 69);
+            this.HideAll.Location = new System.Drawing.Point(612, 67);
             this.HideAll.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.HideAll.Name = "HideAll";
             this.HideAll.Size = new System.Drawing.Size(66, 21);
@@ -718,10 +718,10 @@
             // ClearFillers
             // 
             this.ClearFillers.Image = ((System.Drawing.Image)(resources.GetObject("ClearFillers.Image")));
-            this.ClearFillers.Location = new System.Drawing.Point(448, 113);
+            this.ClearFillers.Location = new System.Drawing.Point(452, 111);
             this.ClearFillers.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.ClearFillers.Name = "ClearFillers";
-            this.ClearFillers.Size = new System.Drawing.Size(170, 35);
+            this.ClearFillers.Size = new System.Drawing.Size(171, 36);
             this.ClearFillers.TabIndex = 31;
             this.ClearFillers.TabStop = false;
             this.ClearFillers.Visible = false;
@@ -730,10 +730,10 @@
             // DeleteBank
             // 
             this.DeleteBank.Image = ((System.Drawing.Image)(resources.GetObject("DeleteBank.Image")));
-            this.DeleteBank.Location = new System.Drawing.Point(634, 113);
+            this.DeleteBank.Location = new System.Drawing.Point(638, 111);
             this.DeleteBank.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.DeleteBank.Name = "DeleteBank";
-            this.DeleteBank.Size = new System.Drawing.Size(122, 35);
+            this.DeleteBank.Size = new System.Drawing.Size(122, 36);
             this.DeleteBank.TabIndex = 32;
             this.DeleteBank.TabStop = false;
             this.DeleteBank.Visible = false;
@@ -844,16 +844,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Planner.Properties.Resources._2;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(786, 726);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.customScrollbar2);
-            this.Controls.Add(this.customScrollbar1);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.HelpText);
             this.Controls.Add(this.HelpClose);
+            this.Controls.Add(this.HelpText);
             this.Controls.Add(this.SettingsMenu2);
             this.Controls.Add(this.DeleteBank);
             this.Controls.Add(this.ClearFillers);
@@ -863,9 +857,15 @@
             this.Controls.Add(this.SaveImage);
             this.Controls.Add(this.LoadBank);
             this.Controls.Add(this.SaveBank);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.SettingsClose);
             this.Controls.Add(this.OptionsBox);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.customScrollbar2);
+            this.Controls.Add(this.customScrollbar1);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.Settings);
             this.Controls.Add(this.NewTab);
             this.Controls.Add(this.InsertBtn);
